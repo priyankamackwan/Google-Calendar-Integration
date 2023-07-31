@@ -1,1 +1,1 @@
-# Google-Calendar-Integration
+# google-calendar-integration-with-laravel
